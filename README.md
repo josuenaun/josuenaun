@@ -57,6 +57,11 @@ I am a passionate web developer with solid experience across different technolog
 
 <br/>  
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+## Check out my Social Media
+
+<a href= "https://www.instagram.com/josuenaun06/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+
 
 
