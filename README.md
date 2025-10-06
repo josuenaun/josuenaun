@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Cineplanet
+- 🔭 I’m currently working J2H Software
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on rprojects
 - 🤔 I’m looking for help with ...
