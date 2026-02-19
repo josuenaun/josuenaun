@@ -59,9 +59,4 @@ I am a passionate web developer with solid experience across different technolog
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 </a>
 
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=josuenaun&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/josuenaun)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=josuenaun&theme=material-palenight)](https://github.com/josuenaun)
-</div>
 
